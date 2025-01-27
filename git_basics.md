@@ -46,3 +46,5 @@ stable commit
 ----------------------------------------
 # `Branches` :
 
+`git checkout <branchname>`
+
