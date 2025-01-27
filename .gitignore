@@ -1,0 +1,8 @@
+#dir
+vendor/
+.vscode
+.env-example
+.env
+#files
+*.txt
+
