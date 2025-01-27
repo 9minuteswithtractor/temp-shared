@@ -29,6 +29,7 @@
 `git commit log` - check history
 `git checkout <commit_num>`
 `git checkout <branch> || <commitNum>`
+
 `git restore .` - returns the latest 
 stable commit 
 
@@ -38,6 +39,10 @@ stable commit
 
 `git commit -am 'save and commit all'`
 
+`git status -s` - short status 
 
+`git diff` -  displays the saved but not added / committed changes 
 
+----------------------------------------
+# `Branches` :
 
