@@ -27,8 +27,16 @@
 `git add .`
 `git commit -m ""`
 `git commit log` - check history
+`git checkout <commit_num>`
+`git checkout <branch> || <commitNum>`
+`git restore .` - returns the latest 
+stable commit 
 
+`git log > <filename.txt>`
 
+`git restore --staged . || <filename>`
+
+`git commit -am 'save and commit all'`
 
 
 
