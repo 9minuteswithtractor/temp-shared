@@ -47,4 +47,9 @@ stable commit
 # `Branches` :
 
 `git checkout <branchname>`
+`git merge feature-1` - merge the latest ..
+
+`git branch <branchName>` - create branch
+
+
 
