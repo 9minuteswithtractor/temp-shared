@@ -50,6 +50,4 @@ stable commit
 `git merge feature-1` - merge the latest ..
 
 `git branch <branchName>` - create branch
-
-
-
+    source controll on the right side ...set auto ..
