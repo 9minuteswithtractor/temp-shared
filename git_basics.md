@@ -51,3 +51,19 @@ stable commit
 
 `git branch <branchName>` - create branch
     source controll on the right side ...set auto ..
+
+`git branch -d <branchName>` - deleting branch / attempt
+
+
+<!-- !!!!!!!!!!!!!! -->
+`git reset HEAD~1` - go back one commit saved changes 
+`git reset --hard HEAD~2` -  delete changes no need  
+`git reset --hard <commitID>` -
+
+// STASH :
+`git stash` - stash the code
+`git stash apply` - apply the last stash
+`git stash list` - show git stash list
+`git stash clear` - iof want to delete all stash list - end of the working day ...
+
+git shortlog 
